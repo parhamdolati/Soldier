@@ -256,7 +256,7 @@ public class GameHandler : MonoBehaviour
             case "تیم و گروه تفنگدار":
                 menu.totalUserInfo.Tim++;
                 break;
-            case "استفاده از زمین دررزم":
+            case "استفاده از زمین در رزم":
                 menu.totalUserInfo.EstefadeAzZaimin++;
                 break;
             case "گشتی و کمین":
