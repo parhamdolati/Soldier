@@ -26,7 +26,8 @@ public class ProfileHandler : MonoBehaviour
                 Destroy(l);
             }
             LeadersTemp.Clear();
-            Vibration.Vibrate(40);
+            if(PlayerPrefs.GetInt("Vibrate")==1)
+                Vibration.Vibrate(40);
         }
         else
         {

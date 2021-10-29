@@ -6616,7 +6616,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -71.18697, y: -0.00014997}
+  m_AnchoredPosition: {x: -84.9, y: -0.00014997}
   m_SizeDelta: {x: 62.212, y: 41.635}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &472775848
@@ -14042,8 +14042,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -73, y: 24.036999}
-  m_SizeDelta: {x: 60, y: 40}
+  m_AnchoredPosition: {x: -93.544, y: 24.036999}
+  m_SizeDelta: {x: 93.713, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1090149196
 MonoBehaviour:
@@ -16734,7 +16734,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 4
+  m_HorizontalAlignment: 8
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -23381,8 +23381,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 125, y: 24.036999}
-  m_SizeDelta: {x: 60, y: 40}
+  m_AnchoredPosition: {x: 116.345, y: 24.036999}
+  m_SizeDelta: {x: 91.89, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1728997573
 MonoBehaviour:
@@ -24327,7 +24327,7 @@ GameObject:
   - component: {fileID: 1830828633}
   - component: {fileID: 1830828632}
   m_Layer: 5
-  m_Name: ChatBtn
+  m_Name: TurnomentBtn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24416,7 +24416,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 79922cfb8df9bb3469ae5ba6cbde4157, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 21ad17610a0c9fd4b9bcb2903a336374, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -24689,7 +24689,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -74.939, y: -0.00014997}
+  m_AnchoredPosition: {x: -85.9, y: -0.00014997}
   m_SizeDelta: {x: 54.707, y: 41.635}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1858511515
